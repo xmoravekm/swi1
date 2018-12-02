@@ -1,2 +1,4 @@
 Aj toto som zmenil
 Change 1
+
+pridal som toto v mojej vetve
